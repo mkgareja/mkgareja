@@ -34,6 +34,7 @@ hi, i'm [Mahesh Gareja](https://mkgareja.github.io/), a passionate self-taught f
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
   
 - 💼 Connect me on, [email](mailto:vvpmahesh@gmail.com) :)
+- ⚡ I love coffee of programming cafe. My fev MEAN 🔭
 - 💬 ask me about anything, i am happy to help;
 
 **Let's talk about:**  
