@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.instagram.com/mkgareja/">
+<!-- <a href="https://www.instagram.com/mkgareja/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/mahesh_gareja">
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.linkedin.com/in/mkgareja/">
   <img align="left" alt="Mahesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mahesh.gareja)
 
